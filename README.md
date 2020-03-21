@@ -1,3 +1,5 @@
+Link: https://forum.cfx.re/t/police-vehicle-tracker-with-ui/1076814
+
 **Description**
 
 This resource gives your police the ability to track any kind of vehicle given that you have its license plate. When the tracker is activated it displays a moving blip on the map, tracking the location of the vehicle. All trackers are synched via server-side so if a cop joins the server there's no problem displaying the active trackers. The vehicle tracker comes with a user-friendly interface and it's easy to customize if you please to do so. This is my first time releasing a resource so if you have any questions or feedback then please drop a comment down below, thanks!
